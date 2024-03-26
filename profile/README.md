@@ -6,7 +6,7 @@
 
 If you don't have an API key yet, get one [here](https://usecapsule.com/beta)
 
-## Some Useful Resources to Get Started
+## Example Guides
 
 The [Capsule Docs](https://docs.usecapsule.com) are the best place to view a full reference.
 
